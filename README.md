@@ -8,7 +8,7 @@ Section: A1- ILFV3
 
 How to Run the Program
 
-Follow these steps to run the Rock, Paper, Scissors game:
+Follow these steps to run the Rock, Paper, Scissors game
 
 - Install Dart: Make sure Dart is installed on your computer.
 
